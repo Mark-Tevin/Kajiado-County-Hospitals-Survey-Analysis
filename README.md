@@ -1,4 +1,4 @@
-# 🏥 Patient Safety Culture Survey — Kajiado County Hospitals
+# 🏥 Patient Safety Culture Survey(Kajiado County Hospitals)
 
 This repository contains all files and data related to the analysis of a **Patient Safety Culture Survey** conducted across hospitals within **Kajiado County, Kenya**. 
 The goal of this study was to measure safety-related perceptions among hospital staff and provide actionable insights to support continuous improvement in healthcare service delivery.

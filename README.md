@@ -42,5 +42,14 @@ All analysis was performed in Python using:
 * **NumPy**
 * **Matplotlib/Seaborn**
 * **Jupyter Notebook**
+### REPOSITORY CONTENTS
+├── data/
+│   └── input_dataset.xlsx         # Original raw survey dataset
+├── Notebooks/
+│   └── Kajiado_Safety_Analysis.ipynb  # Full analysis pipeline
+├── README.md                      # Project documentation
+└── outputs/
+    └── charts/                    # (Optional) stored visualizations
+
 
 

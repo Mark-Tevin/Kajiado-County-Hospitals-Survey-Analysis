@@ -42,14 +42,25 @@ All analysis was performed in Python using:
 * **NumPy**
 * **Matplotlib/Seaborn**
 * **Jupyter Notebook**
-### REPOSITORY CONTENTS
+
+
+
 ├── data/
-│   └── input_dataset.xlsx         # Original raw survey dataset
+│   └── input_dataset.xlsx                 # Raw survey dataset collected from hospitals in Kajiado County
+│
 ├── Notebooks/
-│   └── Kajiado_Safety_Analysis.ipynb  # Full analysis pipeline
-├── README.md                      # Project documentation
-└── outputs/
-    └── charts/                    # (Optional) stored visualizations
+│   └── Kajiado_Safety_Analysis.ipynb      # Full analysis pipeline:
+│                                          #   • Data cleaning and preparation
+│                                          #   • Hospital/Respondent distribution
+│                                          #   • Likert item frequency tables
+│                                          #   • Favorability scoring
+│                                          #   • Interpretation + insights
+│
+├── outputs/
+│   └── charts/                            # (Optional) Stored visualizations generated from the notebook
+│
+└── README.md                              # Project documentation and usage guide
+
 
 
 

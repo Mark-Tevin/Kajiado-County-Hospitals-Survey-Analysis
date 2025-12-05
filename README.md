@@ -10,6 +10,18 @@ The objective of the study was to understand the perceptions of healthcare worke
 * Safety culture & blame climate
 * Unit-level operational support
 
+Objectives of the Study
+
+The analysis aims to answer:
+
+How do staff across different hospitals perceive patient safety?
+
+What are the common views on teamwork, staffing, shift handovers, and safety climate?
+
+Which departments contributed insights, and where are the data gaps?
+
+What strengths and improvement areas can hospital leadership act on?
+
 The analysis includes:
 
 * 🔍 **Frequency counts and distributions** (Hospital, Staff Role, Work Unit)

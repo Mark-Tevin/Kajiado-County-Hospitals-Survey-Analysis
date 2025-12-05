@@ -1,10 +1,6 @@
 # Kajiado-County-Hospitals-Survey-Analysis
 This repository contains an end-to-end data analysis of a healthcare safety culture survey conducted across multiple hospitals in Kajiado County, Kenya.
 
-Absolutely — here is a **clean, professional and engaging repo description** you can paste directly into GitHub 👇
-
----
-
 # 📄 Repository Description
 
 **Kajiado County Hospital Safety Survey Analysis**

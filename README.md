@@ -1,12 +1,6 @@
 # Kajiado-County-Hospitals-Survey-Analysis
 This repository contains an end-to-end data analysis of a healthcare safety culture survey conducted across multiple hospitals in Kajiado County, Kenya.
 
-# 📄 Repository Description
-
-**Kajiado County Hospital Safety Survey Analysis**
-
-This repository contains the end-to-end data analysis of a healthcare safety culture survey conducted across multiple hospitals in **Kajiado County, Kenya**.
-
 The objective of the study was to understand the perceptions of healthcare workers on key patient safety dimensions, including:
 
 * Teamwork & collaboration
@@ -37,6 +31,4 @@ All analysis was performed in Python using:
 * **Matplotlib/Seaborn**
 * **Jupyter Notebook**
 
-
-Just let me know 👍
 

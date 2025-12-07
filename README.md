@@ -137,13 +137,9 @@ This study provides:
 * Research and academic reference
 * Benchmarking across hospitals
 
----
-
-## ✍️ Author
-
-**Tevin Mark Simiyu**
-Data Scientist | Software Engineer | CloudDev | SAP Associate
-📧 Email: **[tevinsmark@gmail.com](mailto:tevinsmark@gmail.com)**
+ 
+**Tevin Mark Simiyu**  
+🔗 Connect with me on LinkedIn: [linkedin.com/in/mark-tevin](https://www.linkedin.com/in/mark-tevin/)
 
 
 
